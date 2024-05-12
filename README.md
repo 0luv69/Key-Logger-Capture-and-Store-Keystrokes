@@ -17,6 +17,10 @@ This Python script records user keystrokes for a specified duration, storing the
 
 `pip install -r requirements.txt`
 
+## Customization
+
+- Adjust the `Timeee` constant at the top of the script to specify the logging duration in seconds
+
 ## Usage
 
 1. Open the terminal or command prompt.
@@ -25,9 +29,6 @@ This Python script records user keystrokes for a specified duration, storing the
    
 `python key_logger.py`
 
-## Customization
-
-- Adjust the `Timeee` constant at the top of the script to specify the logging duration in seconds.
 
 ## Accessing Logs
 
